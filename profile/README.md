@@ -8,10 +8,6 @@ This GitHub organisation was created by [Ricardo Balk][gh:@ricardobalk], a Bunq 
 
 The goal of this project is to create community-driven, free (libre) and open source versions of Bunq's apps, so that everyone can use, inspect and contribute to the source code.
 
-## Disclaimer
-
-This project is not affiliated with Bunq in any way. It is a community-driven project. Ricardo is also not affiliated with Bunq in any way, he just loves the product and wants to help make it even better.
-
 <!-- ## Contributing -->
 
 <!-- Please read [CONTRIBUTING.md][gh:pnud/contributing] for details on our code of conduct, and the process for submitting pull requests. -->
@@ -26,6 +22,10 @@ This project is not affiliated with Bunq in any way. It is a community-driven pr
 ## License
 
 This project is licensed under the ISC License, unless otherwise stated in the repositories. See the [LICENSE.md][gh:@pnud/license] file for details.
+
+## Disclaimer
+
+This project is not affiliated with Bunq in any way. It is a community-driven project. Ricardo is also not affiliated with Bunq in any way, he just loves the product and wants to help make it even better.
 
 ## Acknowledgments
 
